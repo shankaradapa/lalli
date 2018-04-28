@@ -1,2 +1,7 @@
 install c++
+
 install java
+
+install java
+install python
+
